@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+docx2txt = "*"
+numpy = "*"
+opencv-python = "*"
+packaging = "*"
+pdf2image = "*"
+pillow = "*"
+pyparsing = "*"
+pytesseract = "*"
+python-levenshtein = "*"
+flask = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
