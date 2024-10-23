@@ -1,0 +1,419 @@
+Text: 1403/05/28, Probability: 0.7836
+Text: iPhone 13 Pro Max, Probability: 0.7772
+Text: Apple rونiمal Products, Probability: 0.2584
+Text: نروزه, Probability: 0.7378
+Text: کتی, Probability: 0.4387
+Text: دروزه, Probability: 0.9615
+Text: Blach, Probability: 0.3455
+Text: LLA, Probability: 0.6722
+Text: 1SIm, Probability: 0.5378
+Text: 99000, Probability: 0.5477
+Text: 99500, Probability: 0.9964
+Text: AirPods Max, Probability: 0.6341
+Text: Black, Probability: 0.4699
+Text: ٩, Probability: 0.2492
+Text: B١u٤, Probability: 0.3942
+Text: G٢٤٤٨, Probability: 0.8345
+Text: Ca٨ ., Probability: 0.2988
+Text: call.٠٠, Probability: 0.3741
+Text: G0|d, Probability: 0.4408
+Text: ٧٧٥, Probability: 0.1081
+Text: 1Si٨, Probability: 0.6426
+Text: AirPods Pro ?n Generation (USB CIran, Probability: 0.1159
+Text: 18Mou0, Probability: 0.3892
+Text: 11700, Probability: 0.9592
+Text: 11850, Probability: 0.9942
+Text: 1T8, Probability: 0.5601
+Text: ٢-, Probability: 0.0420
+Text: LLIA 1Sim, Probability: 0.5532
+Text: AirPods FIO SIU Generation (USB clتsأ, Probability: 0.0923
+Text: Mount, Probability: 0.6938
+Text: 11500, Probability: 0.9999
+Text: 11650, Probability: 0.9998
+Text: Bluc, Probability: 0.3737
+Text: LUA 1Sim, Probability: 0.3642
+Text: AIrPods رذd Generation, Probability: 0.3086
+Text: ا٠ت ی ٠{١4, Probability: 0.0017
+Text: ٨٥٦, Probability: 0.1268
+Text: Moun, Probability: 0.1130
+Text: 8900, Probability: 0.9992
+Text: 9050, Probability: 0.8850
+Text: Black, Probability: 0.9924
+Text: L٧A, Probability: 0.3612
+Text: 1Sim, Probability: 0.9972
+Text: 97000, Probability: 0.9999
+Text: 97500, Probability: 0.9999
+Text: AIrPods lu Generation Lighining بن, Probability: 0.1605
+Text: Mount, Probability: 0.5440
+Text: Gold, Probability: 0.2799
+Text: L٧A, Probability: 0.3266
+Text: 1Sim, Probability: 0.8375
+Text: AirPods لبراد Generation  Lightning, Probability: 0.3318
+Text: 184000, Probability: 0.2691
+Text: 8400, Probability: 0.9996
+Text: 8550, Probability: 0.9994
+Text: 512G8, Probability: 0.9028
+Text: LL/A, Probability: 0.3932
+Text: 1Sim, Probability: 0.8768
+Text: Airpods Jru Generation Lightning, Probability: 0.5384
+Text: Mo٧nt, Probability: 0.3358
+Text: 8250, Probability: 0.9998
+Text: 8400, Probability: 0.9998
+Text: ٥١٧٤, Probability: 0.4660
+Text: LUA 1Sim, Probability: 0.1835
+Text: Airpods 3id Generalion  Lighining, Probability: 0.4205
+Text: Black, Probability: 0.9963
+Text: L٧A, Probability: 0.4811
+Text: 1Sim, Probability: 0.9818
+Text: Airpods znd Generation, Probability: 0.4165
+Text: 18M0003, Probability: 0.2466
+Text: 5900, Probability: 0.9992
+Text: 6000, Probability: 0.9999
+Text: Gold, Probability: 0.8593
+Text: L٧٥, Probability: 0.2511
+Text: 1SiI, Probability: 0.5264
+Text: Alrpods Gnd Generation, Probability: 0.1130
+Text: 6Mlo0nt, Probability: 0.0269
+Text: 5450, Probability: 0.9995
+Text: 5600, Probability: 0.9970
+Text: 256G3, Probability: 0.5640
+Text: LL4, Probability: 0.3107
+Text: 1Sتm, Probability: 0.3819
+Text: Airpods Auu Gen٤ration, Probability: 0.0184
+Text: 5300, Probability: 0.9994
+Text: 5400, Probability: 0.9898
+Text: B١u٤, Probability: 0.2808
+Text: LUA 1Sim, Probability: 0.8262
+Text: Apple Pencil znu Generallon, Probability: 0.1113
+Text: 5950, Probability: 0.9990
+Text: 6050, Probability: 0.9768
+Text: Black, Probability: 0.6031
+Text: LLA, Probability: 0.9980
+Text: 1Si8, Probability: 0.2730
+Text: Apple Pencil MeU IUSB G, Probability: 0.1171
+Text: 607, Probability: 0.1208
+Text: L٧, Probability: 0.4503
+Text: 1Sim, Probability: 0.8783
+Text: ApPle Pencil 1s, Probability: 0.2824
+Text: 256G8, Probability: 0.7764
+Text: LUA 1Sim, Probability: 0.7852
+Text: 2UW USB c Power Adapter 3PIn BfA, Probability: 0.1663
+Text: n٤٧, Probability: 0.5754
+Text: GMount, Probability: 0.6713
+Text: 1350, Probability: 0.9999
+Text: 1400, Probability: 0.9975
+Text: B١u٤, Probability: 0.1103
+Text: LUA 1Sim, Probability: 0.4853
+Text: Explore Apple Watch, Probability: 0.8697
+Text: iPhone 13 Pro, Probability: 0.6340
+Text: نقدء, Probability: 0.6647
+Text: ذ١ وز٥, Probability: 0.1726
+Text: دروز, Probability: 0.9573
+Text: Watch U: ج, Probability: 0.1131
+Text: 4, Probability: 0.0241
+Text: ٩    ٠١ , Probability: 0.0080
+Text: Blue Ocean, Probability: 0.9953
+Text: 42200, Probability: 1.0000
+Text: 42500, Probability: 0.9999
+Text: Blach, Probability: 0.5601
+Text: LUA, Probability: 0.9217
+Text: 1Sim, Probability: 0.9498
+Text: Watch U7ر >, Probability: 0.0112
+Text: لنن, Probability: 0.0022
+Text: طُت ح دذی, Probability: 0.0003
+Text: Orange Ocean, Probability: 0.9310
+Text: 42200, Probability: 0.9999
+Text: 42500, Probability: 0.9998
+Text: T8, Probability: 0.3048
+Text: Gold, Probability: 0.5787
+Text: LLA, Probability: 0.9636
+Text: 1Sim, Probability: 0.9395
+Text: Watch UIA 2, Probability: 0.2629
+Text: 4, Probability: 0.6660
+Text: 5, Probability: 0.0020
+Text: Alphine Indigo, Probability: 0.9983
+Text: 42400, Probability: 0.9998
+Text: 42700, Probability: 0.9999
+Text: LLA 1Sim, Probability: 0.6406
+Text: Watch 5 كrفادف , Probability: 0.0109
+Text: ه, Probability: 0.0186
+Text: مم, Probability: 0.0024
+Text: Midnight, Probability: 0.9252
+Text: 20900, Probability: 0.9923
+Text: 21200, Probability: 0.9996
+Text: Blue, Probability: 0.9528
+Text: LLA 1Sim, Probability: 0.4214
+Text: Watch 5٤٥iوsف, Probability: 0.0243
+Text: تنتلسك4, Probability: 0.0109
+Text: , Probability: 0.0000
+Text: Starlight, Probability: 0.9995
+Text: 20600, Probability: 0.9702
+Text: 20900, Probability: 0.9999
+Text: Black, Probability: 0.6095
+Text: LLA, Probability: 0.9428
+Text: 1Sim, Probability: 0.9801
+Text: Watch SBHasف, Probability: 0.0335
+Text: لی -, Probability: 0.0110
+Text:  , Probability: 0.1991
+Text: Midnight, Probability: 0.9951
+Text: 18550, Probability: 0.9997
+Text: 18850, Probability: 0.9902
+Text: Gold, Probability: 0.8514
+Text: L٧٨, Probability: 0.3061
+Text: 1Sim, Probability: 0.8063
+Text: Watch SsI:39, Probability: 0.0211
+Text:  , Probability: 0.2074
+Text: SIIvef, Probability: 0.4937
+Text: 19500, Probability: 0.8556
+Text: 19800, Probability: 0.9883
+Text: 512G8, Probability: 0.6607
+Text: LLA, Probability: 0.2086
+Text: 1Sim, Probability: 0.3861
+Text: Watch فزرفكsف, Probability: 0.0454
+Text: ٧ر 71, Probability: 0.0245
+Text: Starlight, Probability: 0.9244
+Text: 18650, Probability: 0.9999
+Text: 18950, Probability: 0.9999
+Text: Blue, Probability: 0.9912
+Text: LUA 1Sim, Probability: 0.7805
+Text: V3tch, Probability: 0.2256
+Text: Series9, Probability: 0.9935
+Text: 934010, Probability: 0.0499
+Text: , Probability: 0.0000
+Text: Starllght, Probability: 0.7983
+Text: 13700, Probability: 0.9942
+Text: 14000, Probability: 0.9962
+Text: Black, Probability: 0.8658
+Text: LLA, Probability: 0.7924
+Text: 1Sim, Probability: 0.9937
+Text: Watchsanes : , Probability: 0.0373
+Text: 0ثب 9, Probability: 0.0655
+Text: Mlunight, Probability: 0.8822
+Text: 13900, Probability: 0.9995
+Text: 14200, Probability: 0.9999
+Text: G0|0., Probability: 0.2408
+Text: LLA, Probability: 0.9192
+Text: 1Sim, Probability: 0.9469
+Text: Watchssrtsg, Probability: 0.0522
+Text: 93 4050, Probability: 0.0845
+Text: Starlight, Probability: 0.9975
+Text: 256G8, Probability: 0.4695
+Text: ا[, Probability: 0.5365
+Text: LLA 1Sim, Probability: 0.6802
+Text: Watch Serlesa, Probability: 0.0833
+Text: ت 5, Probability: 0.0248
+Text: Mlonight, Probability: 0.9182
+Text: 12300, Probability: 0.9938
+Text: 12600, Probability: 0.9983
+Text: Blu٤, Probability: 0.1619
+Text: LLA 1Sim, Probability: 0.6552
+Text: Watch SقIفsg, Probability: 0.0198
+Text: شا? 93, Probability: 0.0318
+Text: Silver, Probability: 0.8737
+Text: 11900, Probability: 1.0000
+Text: 12200, Probability: 0.8976
+Text: iPhone 13, Probability: 0.7730
+Text: Explore iPad, Probability: 0.6408
+Text: نقدع, Probability: 0.7184
+Text: ذاروز,, Probability: 0.2645
+Text: ددوزه, Probability: 0.2434
+Text: White, Probability: 0.9919
+Text: GHA, Probability: 0.5927
+Text: 25im, Probability: 0.3975
+Text: 58000, Probability: 0.9933
+Text: 58500, Probability: 0.9997
+Text: iPad pro 12.9', Probability: 0.3897
+Text: 2566, Probability: 0.9556
+Text: ٧٤١, Probability: 0.1079
+Text: SIIver, Probability: 0.7358
+Text: 69000, Probability: 0.9726
+Text: 69300, Probability: 0.9997
+Text: Pink, Probability: 0.5885
+Text: CHIA, Probability: 0.9957
+Text: 2Sim, Probability: 0.9688
+Text: IPad Alf 5, Probability: 0.4801
+Text: 2586, Probability: 0.4799
+Text: MFI, Probability: 0.8485
+Text: , Probability: 0.0000
+Text: Pink, Probability: 0.9757
+Text: Black, Probability: 0.7515
+Text: EHA, Probability: 0.4179
+Text: 2Sin1, Probability: 0.8190
+Text: 61000, Probability: 0.9995
+Text: 61500, Probability: 0.9861
+Text: IPad Alr 5, Probability: 0.5712
+Text: 2566, Probability: 0.8408
+Text: WFI, Probability: 0.7012
+Text: , Probability: 0.0000
+Text: Sllver, Probability: 0.8575
+Text: 256G8, Probability: 0.4641
+Text: Blue, Probability: 0.9951
+Text: CHIA, Probability: 0.3867
+Text: 2Sim, Probability: 0.8866
+Text: IPad Air 5, Probability: 0.7104
+Text: 646, Probability: 0.7637
+Text: WFI, Probability: 0.4517
+Text: م, Probability: 0.0406
+Text: Purple, Probability: 0.8505
+Text: Gr٤٤٨, Probability: 0.1955
+Text: CHIA, Probability: 0.9044
+Text: 2Si٨, Probability: 0.5734
+Text: IPad 1Dth, Probability: 0.2071
+Text: 2566, Probability: 0.8957
+Text: WFI, Probability: 0.9274
+Text: SIIv٤r , Probability: 0.2312
+Text: 30200, Probability: 0.9976
+Text: 30500, Probability: 0.9593
+Text: Red, Probability: 0.9793
+Text: CHIA, Probability: 0.5992
+Text: 2Sim, Probability: 0.9502
+Text: iPad 1fth, Probability: 0.3465
+Text: 646, Probability: 0.9156
+Text: WFi, Probability: 0.8719
+Text: [, Probability: 0.1460
+Text: Pink, Probability: 0.9815
+Text: White, Probability: 0.9360
+Text: CHIA, Probability: 0.7626
+Text: 2Sآm, Probability: 0.0355
+Text: 40600, Probability: 0.9999
+Text: 41100, Probability: 0.9984
+Text: Pad 9th, Probability: 0.6707
+Text: 2566, Probability: 0.9638
+Text: MIFI, Probability: 0.5031
+Text: , Probability: 0.0000
+Text: SlIvef , Probability: 0.3043
+Text: 21000, Probability: 0.9621
+Text: 21300, Probability: 0.8552
+Text: Pink, Probability: 0.5889
+Text: CHIA, Probability: 0.9822
+Text: 2Sim, Probability: 0.8382
+Text: 40900, Probability: 0.8954
+Text: 41400, Probability: 0.9998
+Text: ipad Mini, Probability: 0.7386
+Text: 2566, Probability: 0.8813
+Text: WiFi, Probability: 0.1901
+Text: س, Probability: 0.2070
+Text: Purple, Probability: 0.6793
+Text: 35500, Probability: 0.9983
+Text: 35800, Probability: 0.9997
+Text: Black, Probability: 0.6862
+Text: CHIA, Probability: 0.9593
+Text: 2Sim, Probability: 0.9730
+Text: 40200, Probability: 0.9999
+Text: 40700, Probability: 0.9999
+Text: ipad Mini, Probability: 0.9487
+Text: 2566, Probability: 0.9891
+Text: MFi, Probability: 0.1992
+Text: , Probability: 0.0000
+Text: Gray, Probability: 0.9754
+Text: 35600, Probability: 0.9996
+Text: 35900, Probability: 0.9999
+Text: 128G8, Probability: 0.8988
+Text: Blue, Probability: 0.5580
+Text: CHA, Probability: 0.9613
+Text: 2Sim, Probability: 0.9650
+Text: ipad Mini , Probability: 0.4786
+Text: 7566, Probability: 0.2859
+Text: W٤١, Probability: 0.1780
+Text: , Probability: 0.0000
+Text: Starlight, Probability: 0.7417
+Text: 35700, Probability: 0.9999
+Text: 36000, Probability: 1.0000
+Text: G٢٤٤٨, Probability: 0.5847
+Text: CHA, Probability: 0.3834
+Text: 2Sin, Probability: 0.2190
+Text: Mini, Probability: 0.9972
+Text: 646, Probability: 0.9777
+Text: WFi, Probability: 0.9517
+Text: , Probability: 0.0000
+Text: Starlight, Probability: 0.5806
+Text: 26700, Probability: 1.0000
+Text: 27000, Probability: 0.9999
+Text: Red, Probability: 0.9996
+Text: CHIA, Probability: 0.9772
+Text: 2Sim, Probability: 0.8189
+Text: Explore Mac, Probability: 0.7561
+Text: Station, Probability: 0.7069
+Text: قببت مای نبایی مکربوی تسان بکیرید, Probability: 0.0630
+Text: برای, Probability: 0.6898
+Text: Play Station 5, Probability: 0.9533
+Text: CFI-2016 1TB باذرائنى شرتى, Probability: 0.2960
+Text: Ca٨l..., Probability: 0.1278
+Text: MacBook Pro 162", Probability: 0.3528
+Text: MUW73, Probability: 0.9255
+Text: R-48, Probability: 0.9919
+Text: 550-113, Probability: 0.1888
+Text: SIIvSI, Probability: 0.2310
+Text: 229, Probability: 0.9996
+Text: Station, Probability: 0.8315
+Text: CF|-1216 825G8, Probability: 0.8723
+Text: Call..., Probability: 0.6819
+Text: MacBook Pro, Probability: 0.8681
+Text: 152, Probability: 0.1024
+Text: MU|63, Probability: 0.3519
+Text: R-18, Probability: 0.9112
+Text: 550-113, Probability: 0.4054
+Text: Blach, Probability: 0.5359
+Text: 230, Probability: 0.9989
+Text: DualSense, Probability: 0.8278
+Text: White, Probability: 0.9620
+Text: 4300, Probability: 0.9999
+Text: MacBook Pro, Probability: 0.9423
+Text: 16,2, Probability: 0.6989
+Text: MRW33, Probability: 0.9790
+Text: R-36, Probability: 0.9711
+Text: $$0.11, Probability: 0.8146
+Text: Blach, Probability: 0.5519
+Text: 197, Probability: 0.9983
+Text: DualSense, Probability: 0.9657
+Text: Midnight, Probability: 0.9876
+Text: 4200, Probability: 0.9979
+Text: MacBook Pro, Probability: 0.8938
+Text: 16.2, Probability: 0.8745
+Text: MRW23, Probability: 0.9771
+Text: R-36, Probability: 0.9602
+Text: $$0-512, Probability: 0.6157
+Text: Blach, Probability: 0.8324
+Text: 163, Probability: 0.9967
+Text: DualSense, Probability: 0.6895
+Text: Custom Colors, Probability: 0.9387
+Text: 4000, Probability: 0.9840
+Text: MacBook Pro, Probability: 0.8610
+Text: 14", Probability: 0.9140
+Text: MRX 83, Probability: 0.8171
+Text: R-36, Probability: 0.8042
+Text: $$0-118, Probability: 0.7022
+Text: SI٥٤r, Probability: 0.0398
+Text: 194, Probability: 0.5434
+Text: MacBook, Probability: 0.9970
+Text: 14", Probability: 0.9405
+Text: MRX 53, Probability: 0.9973
+Text: R-36, Probability: 0.9987
+Text: 550-115, Probability: 0.4687
+Text: LL Black, Probability: 0.8177
+Text: 194, Probability: 0.9987
+Text: MacBook Air, Probability: 0.7505
+Text: 15.3", Probability: 0.6924
+Text: MXD U3, Probability: 0.4717
+Text: Rul6, Probability: 0.1803
+Text: 550-512, Probability: 0.3795
+Text: LL Blach, Probability: 0.7294
+Text: 102, Probability: 0.9995
+Text: MacBook Air, Probability: 0.6871
+Text: ٨53, Probability: 0.1899
+Text: MRY 03, Probability: 0.8042
+Text: 550-512, Probability: 0.1889
+Text: Silvef, Probability: 0.4624
+Text: MacBook Alr, Probability: 0.4903
+Text: 13;6", Probability: 0.3963
+Text: MRY P3, Probability: 0.7673
+Text: 5$03256, Probability: 0.1442
+Text: aColor, Probability: 0.2702
+Text: نقدی, Probability: 0.7285
+Text: نفدی, Probability: 0.5849
+Text: نقدی, Probability: 0.8558
+Text: Ipad, Probability: 0.1887
+Text: Play, Probability: 0.9992
+Text: دریافت, Probability: 0.9178
+Text: Play, Probability: 0.9968
+Text: Pro, Probability: 0.9920
