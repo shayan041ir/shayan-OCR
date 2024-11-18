@@ -26,7 +26,7 @@ def upload_file():
     if file:
         file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
         file.save(file_path)
-        ocr_main()  # اجرای تابع OCR
+        ocr_main() 
 
         output_filename = f"out_{os.path.splitext(file.filename)[0]}.txt"
         return redirect(url_for('output_file', filename=output_filename))
